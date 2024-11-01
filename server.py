@@ -12,7 +12,7 @@ import pickle
 import sys 
 
 # Defines the server and port and then globalizes the currentPlayer variable
-server = "10.226.50.164"
+server = ""
 port = 5555
 global currentPlayer
 
